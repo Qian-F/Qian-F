@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%E4%BD%A0%E5%A5%BD%2C+%E6%88%91%E5%8F%AB%E6%B5%85%E9%A3%8E)](https://git.io/typing-svg)
+
